@@ -144,7 +144,7 @@ The dataset includes detailed information about Mercedes vehicles, such as:
 ## 🧠 Author
 
 # EMEKAILI NELSON
-Aspiring Data Analyst
+Data Analyst
 
 SQL • Python • Data Visualization
 
